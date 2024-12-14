@@ -1,0 +1,20 @@
+{
+    "transactions": [
+      {
+        "monto": "2000.50",
+        "banco": "Banco Nacional",
+        "fecha": "2024-12-12",
+        "descripcion": "Pago de servicios",
+        "imagen": "https://via.placeholder.com/150"
+      },
+      {
+        "monto": "1500.00",
+        "banco": "Banco Central",
+        "fecha": "2024-12-10",
+        "descripcion": "Transferencia recibida",
+        "imagen": "https://via.placeholder.com/150"
+      }
+    ]
+  }
+  
+  
